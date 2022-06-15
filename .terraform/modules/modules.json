@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"my_vpc","Source":"../Terraform 4/modules/vpc","Dir":"../Terraform 4/modules/vpc"},{"Key":"","Source":"","Dir":"."},{"Key":"my_ec2","Source":"../Terraform 4/modules/ec2","Dir":"../Terraform 4/modules/ec2"}]}
